@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\limad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\limad\\.nuget\\packages"
+    ]
+  }
+}
